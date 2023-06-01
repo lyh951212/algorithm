@@ -22,3 +22,9 @@
 |[1475](https://www.acmicpc.net/problem/1475)| [❌] | [ ] | [ ] |
 |[2577](https://www.acmicpc.net/problem/2577)| [⭕] | [ ] | [ ] |
 |[3273](https://www.acmicpc.net/problem/3273)| [❌] | [ ] | [ ] |
+
+
+### 연결리스트
+|      | 1회차| 2회차| 3회차 |
+| :--: | :--: | :--: | :--: |
+|[5397](https://www.acmicpc.net/problem/5397)| [❌] | [ ] | [ ] |
