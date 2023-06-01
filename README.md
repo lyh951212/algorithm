@@ -28,3 +28,4 @@
 |      | 1회차| 2회차| 3회차 |
 | :--: | :--: | :--: | :--: |
 |[5397](https://www.acmicpc.net/problem/5397)| [❌] | [ ] | [ ] |
+|[1158](https://www.acmicpc.net/problem/1158)| [❌] | [ ] | [ ] |
