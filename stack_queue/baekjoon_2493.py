@@ -5,6 +5,7 @@ stack = []
 result = [0] * n
 
 for i in range(1, n):
+
     while stack and towers[stack[-1]] < towers[i]:
         stack.pop()
 
