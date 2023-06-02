@@ -2,6 +2,8 @@
 
 백준을 통해 알고리즘 문제를 풀고 공부합니다.
 
+<br>
+
 ## 참고자료 
   - [alphabet150](https://alphabet150.com/)
   - [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
@@ -13,6 +15,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh951212)](https://solved.ac/lyh951212)
 
+<br>
 
 ## 현황
 
@@ -33,13 +36,7 @@
 ### 스택
 |      | 1회차| 2회차| 3회차 |
 | :--: | :--: | :--: | :--: |
-|[2493](https://www.acmicpc.net/problem/2493)| [[❌](#2493)] | [ ] | [ ] |
+|[2493](https://www.acmicpc.net/problem/2493)| [❌] | [ ] | [ ] |
 |[6198](https://www.acmicpc.net/problem/6198)| [⭕] | [ ] | [ ] |
 
 
-
-
-
-## 오답노트
-#2493
-1회차
