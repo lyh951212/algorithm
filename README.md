@@ -39,4 +39,9 @@
 |[2493](https://www.acmicpc.net/problem/2493)| [❌] | [ ] | [ ] |
 |[6198](https://www.acmicpc.net/problem/6198)| [⭕] | [ ] | [ ] |
 
+### 덱
+|      | 1회차| 2회차| 3회차 |
+| :--: | :--: | :--: | :--: |
+|[5430](https://www.acmicpc.net/problem/5430)| [❌] | [ ] | [ ] |
+|[11003](https://www.acmicpc.net/problem/11003)| [❌] | [ ] | [ ] |
 
