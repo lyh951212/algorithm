@@ -38,6 +38,8 @@
 | :--: | :--: | :--: | :--: |
 |[2493](https://www.acmicpc.net/problem/2493)| [❌] | [ ] | [ ] |
 |[6198](https://www.acmicpc.net/problem/6198)| [⭕] | [ ] | [ ] |
+|[10799](https://www.acmicpc.net/problem/10799)| [❌] | [ ] | [ ] |
+|[2504](https://www.acmicpc.net/problem/2504)| [❌] | [ ] | [ ] |
 
 ### 덱
 |      | 1회차| 2회차| 3회차 |
@@ -45,3 +47,7 @@
 |[5430](https://www.acmicpc.net/problem/5430)| [❌] | [ ] | [ ] |
 |[11003](https://www.acmicpc.net/problem/11003)| [❌] | [ ] | [ ] |
 
+### BFS
+|      | 1회차| 2회차| 3회차 |
+| :--: | :--: | :--: | :--: |
+|[1012](https://www.acmicpc.net/problem/1012)| [] | [ ] | [ ] |

@@ -1,6 +1,6 @@
 from collections import deque
 
-n, l = map(int, input().split())
+n, L = map(int, input().split())
 arr = [*map(int, input().split())]
 m = deque()
 for i in range(n):
@@ -11,6 +11,6 @@ for i in range(n):
     m.append(tmp)
 
     #윈도우 크기보다 커진 단계에서 arr와 비교한 후 left pop
-    if i >= l and m[0] == arr[i - l]: 
+    if i >= L and m[0] == arr[i - L]: 
         m.popleft()
     print(m[0], end=' ')
