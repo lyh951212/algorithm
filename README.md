@@ -7,6 +7,7 @@
 ## 참고자료 
   - [alphabet150](https://alphabet150.com/)
   - [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+  - [파이썬 오답노트](https://wholesale-rosehip-5b0.notion.site/239e707bd8664904bc5a46fbf01e83d6?pvs=4)
 
 
 ## 백준 랭크

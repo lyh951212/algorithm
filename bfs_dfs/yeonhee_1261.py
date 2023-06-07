@@ -10,7 +10,9 @@ def bfs():
 
     while q:
         (x,y) = q.popleft()
-
+        if x == r-1 and y == c-1:
+            return vis[r-1][c-1]
+        
         for i in range(4):
             _dx = x + dx[i]
             _dy = y + dy[i]
@@ -32,6 +34,9 @@ def dijkstra():
 
     while heap:
         d, x, y = heappop(heap)
+
+        if x == r-1 and y == c-1:
+            return d
 
         for i in range(4):
             _dx = x + dx[i]
@@ -59,5 +64,5 @@ if __name__ == "__main__":
     dx = [1, -1, 0, 0]
     dy = [0, 0, -1, 1]
 
-    #print(bfs())
+    print(bfs())
     print(dijkstra())

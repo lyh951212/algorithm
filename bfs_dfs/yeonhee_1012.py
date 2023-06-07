@@ -45,7 +45,10 @@ if __name__== "__main__":
                 if ground[rowIdx][colIdx] == 0:
                     continue
 
-                ground[rowIdx][colIdx] = 0
+                if visited[rowIdx][colIdx] == True:
+                    continue
+
+                visited[rowIdx][colIdx] = True
                 bfs(rowIdx, colIdx)
                 result = result+1
 
