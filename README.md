@@ -58,6 +58,6 @@
 |      | 1회차| 2회차| 3회차 | 메모 |
 | :--: | :--: | :--: | :--: | :--: |
 |[1941](https://www.acmicpc.net/problem/1941)| [❌] | [ ] | [ ] | [ 풀이도 어려웠음 ㅠ] |
-|[1074](https://www.acmicpc.net/problem/1074)| [⭕] | [ ] | [ ] | [제곱근 a**b , math.sqrt(4) == 4**1/2] |
+|[1074](https://www.acmicpc.net/problem/1074)| [⭕] | [ ] | [ ] | [제곱근 a** b , math.sqrt(4) == 4 ** 1/2] |
 
 
