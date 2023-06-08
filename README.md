@@ -51,4 +51,6 @@
 ### BFS
 |      | 1회차| 2회차| 3회차 |
 | :--: | :--: | :--: | :--: |
-|[1012](https://www.acmicpc.net/problem/1012)| [] | [ ] | [ ] |
+|[1012](https://www.acmicpc.net/problem/1012)| [❌] | [ ] | [ ] |
+|[1600](https://www.acmicpc.net/problem/1600)| [❌] | [ ] | [ ] |
+

@@ -10,8 +10,6 @@ def bfs():
 
     while q:
         (x,y) = q.popleft()
-        if x == r-1 and y == c-1:
-            return vis[r-1][c-1]
         
         for i in range(4):
             _dx = x + dx[i]
