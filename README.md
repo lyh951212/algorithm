@@ -49,8 +49,15 @@
 |[11003](https://www.acmicpc.net/problem/11003)| [❌] | [ ] | [ ] |
 
 ### BFS
-|      | 1회차| 2회차| 3회차 |
-| :--: | :--: | :--: | :--: |
-|[1012](https://www.acmicpc.net/problem/1012)| [❌] | [ ] | [ ] |
-|[1600](https://www.acmicpc.net/problem/1600)| [❌] | [ ] | [ ] |
+|      | 1회차| 2회차| 3회차 | 메모 |
+| :--: | :--: | :--: | :--: | :--: |
+|[1012](https://www.acmicpc.net/problem/1012)| [❌] | [ ] | [ ] | [ ] |
+|[1600](https://www.acmicpc.net/problem/1600)| [❌] | [ ] | [ ] | [ 1012와 비슷한 유형] |
+
+### 백트래킹
+|      | 1회차| 2회차| 3회차 | 메모 |
+| :--: | :--: | :--: | :--: | :--: |
+|[1941](https://www.acmicpc.net/problem/1941)| [❌] | [ ] | [ ] | [ 풀이도 어려웠음 ㅠ] |
+|[1074](https://www.acmicpc.net/problem/1074)| [⭕] | [ ] | [ ] | [] |
+
 

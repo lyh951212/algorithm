@@ -10,7 +10,7 @@ def recur( size):
     _c = C//(size/2)
 
     R -= (size//2) * _r
-    C -= (size//2) * _c
+    C -= (size//2) * _c 
 
     return area * (_r * 2 + _c) + recur(size//2)
 
