@@ -61,3 +61,9 @@
 |[1074](https://www.acmicpc.net/problem/1074)| [⭕] | [ ] | [ ] | [제곱근 a** b , math.sqrt(4) == 4 ** 1/2] |
 
 
+### 구현
+|      | 1회차| 2회차| 3회차 | 메모 |
+| :--: | :--: | :--: | :--: | :--: |
+|[2개이하로 다른 비트](https://school.programmers.co.kr/tryouts/72111/challenges?language=python3)| [❌] | [ ] | [ ] | [ bin(2) --> "0b10" 출력된다.] |
+
+
