@@ -13,7 +13,7 @@ def solution(noti_time, do_not_disturb):
 
         if start > end:
             start_idx = start_hh*60+start_mm
-            end_idx = 23*60+59
+            end_idx = 23*60+60
             time[start_idx:] = [-1]*(end_idx - start_idx)
 
             end_idx = end_hh*60+end_mm
