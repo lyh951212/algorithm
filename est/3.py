@@ -36,6 +36,7 @@ def solution(noti_time, do_not_disturb):
 
             tmptime = str(r) + ":" + str(c)
             hour,minute = tmptime.split(":")
+            
             formattime = "{:02d}:{:02d}".format(int(hour), int(minute))
             answer = formattime
         elif 0 in time[ : noti_idx]:
