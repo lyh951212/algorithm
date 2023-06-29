@@ -69,6 +69,8 @@
 |[타겟넘버](https://school.programmers.co.kr/tryouts/72114/challenges)| [⭕] | [ ] | [ ] | [ ] |
 |[여행경로](https://school.programmers.co.kr/tryouts/72115/challenges?language=python3)| [❌] | [ ] | [ ] | [ ] |
 |[네트워크](https://school.programmers.co.kr/tryouts/72116/challenges?language=python3)| [⭕] | [ ] | [ ] | [ ] |
+|[단어변환](https://school.programmers.co.kr/tryouts/72118/challenges?language=python3)| [❌] | [ ] | [ ] | [ ] |
+
 
 
 

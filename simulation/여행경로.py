@@ -18,6 +18,7 @@ def solution(tickets):
         tmp = q[-1]
 
         if not adj[tmp]:
+            # 길이 끊어진 tmp가 경로의 마지막일 것이다
             answer.append(q.pop())
         else:
             q.append(adj[tmp].pop())
