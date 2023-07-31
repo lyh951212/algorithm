@@ -54,7 +54,7 @@
 |      | 1회차| 2회차| 3회차 | 메모 |
 | :--: | :--: | :--: | :--: | :--: |
 |[1012](https://www.acmicpc.net/problem/1012)| [❌] | [ ] | [ ] | [ ] |
-|[1600](https://www.acmicpc.net/problem/1600)| [❌] | [ ] | [ ] | [ 1012와 비슷한 유형] |
+|[1600](https://www.acmicpc.net/problem/1600)| [❌] | [⭕] | [ ] | [ 1012와 비슷한 유형] |
 |[2206](https://www.acmicpc.net/problem/2206)| [❌] | [❗] | [ ] | [ 3차원 배열 유형 ] |
 |[7569](https://www.acmicpc.net/problem/7569)| [❌] | [❗] | [ ] | [ ] |
 |[2573](https://www.acmicpc.net/problem/2573)| [❌] | [] | [ ] | [ ] |
